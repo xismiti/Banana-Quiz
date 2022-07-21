@@ -5,9 +5,16 @@
 
     body{
 
-        height: 100vh;
+        height: 110vh;
         width: 100vw;
-        overflow: hidden;
+        overflow: unset;
+
+
+        .landing{
+
+            height: 110vh;
+        }
+
     
 
         #vector{
@@ -43,6 +50,10 @@
 
         footer{
 
+
+            width: 100vw;
+            bottom: -10%;
+
             #footer-main-text{
 
                 display: none;
@@ -50,7 +61,7 @@
 
             #footer-subtext{
 
-                font-size: 2.5vw;
+                font-size: 8pt;
                 width: 80vw;
                 text-align: center;
             }
