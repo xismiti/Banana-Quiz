@@ -16,7 +16,7 @@ Para acessar o site é só clicar na Banana! [![Banana Image](https://emoji.disc
 # O Dev, 😎!
 
 
-Opa beleza?... Sou Guilherme o responsável por esta obra de arte! (arte é interpretativo então se achou ruim é porque não entendeu a arte! (alert('piada'))). Gosto de criar algoritmos estranhos ou projetos de índole duvidável! gosto de testar coisas e ver como elas se comportando (so não gosto quando entro em um loop eterno e meu computador quase explode rodando o codigo...). Enfim, sinta-se a vontade para ver meus outros repositórios.
+Opa beleza?... Sou Guilherme o responsável por esta obra de arte! (arte é interpretativo então se achou ruim é porque não entendeu a arte! (alert('piada'))). Gosto de criar algoritmos estranhos ou projetos de índole duvidável! gosto de testar coisas e ver como elas se comportam (só não gosto quando entro em um loop eterno e meu computador quase explode rodando o codigo...). Enfim, sinta-se a vontade para ver meus outros repositórios.
 
 
 ### Contato
