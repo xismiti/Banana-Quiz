@@ -8,7 +8,7 @@ Este site é responsivo, ou seja, suporta diferentes dispositivos 📱 || 💻!
 
 ## Como acessar?
 
-Para acessar o site é só clicar na Banana! [![Github Badge](https://emoji.discadia.com/emojis/5752c6d7-937d-4986-9e69-0667f0348697.GIF?style=flat-square&logo=Github&logoColor=white&link=https://github.com/xismiti)](https://github.com/xismiti)
+Para acessar o site é só clicar na Banana! [![Banana Image](https://emoji.discadia.com/emojis/5752c6d7-937d-4986-9e69-0667f0348697.GIF?style=flat-square&logo=Github&logoColor=white&link=https://xismiti.github.io/Banana-Quiz/)](https://xismiti.github.io/Banana-Quiz/)
 
 
 
